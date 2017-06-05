@@ -2,7 +2,7 @@
 
 script for Arduino Uno to monitor batteries (power, voltage and state of charge).  
   
-![schema](/home/sam/Bureau/battery-monitoring_bb.png)
+![schema](images/battery-monitoring_bb.png)
 
 sources:
 * **LiPo Fuel Gauge**  
